@@ -1,0 +1,23 @@
+train: data/images
+val: data/images
+
+nc: 18
+
+names: ["dog",
+"person",
+"cat",
+"tv",
+"car",
+"meatballs",
+"marinara sauce",
+"tomato soup",
+"chicken noodle soup",
+"french onion soup",
+"chicken breast",
+"ribs",
+"pulled pork",
+"hamburger",
+"cavity",
+"Gum",
+"Mentos",
+"Pure"]
